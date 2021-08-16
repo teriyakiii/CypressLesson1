@@ -1,3 +1,7 @@
+/// <reference types="cypress" />
+cy.get
+
+
 const { it } = require("date-fns/locale")
 const { isExportDeclaration } = require("typescript")
 
